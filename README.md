@@ -69,5 +69,5 @@ This the result the tags and is plain text :)
 Whatch this vedio 
 
 
-[<img src="https://img.youtube.com/vi/<xTBMPzyKcUI>/maxresdefault.jpg" width="50%">](https://youtu.be/<xTBMPzyKcUI>)
+[<img src="https://img.youtube.com/vi/xTBMPzyKcUI/maxresdefault.jpg" width="50%">](https://youtu.be/xTBMPzyKcUI)
 
