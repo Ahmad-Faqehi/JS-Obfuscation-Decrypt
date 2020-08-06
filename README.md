@@ -66,4 +66,6 @@ Now execute the program, you can use online compiler for C#, I recommend **onlin
 
 This the result the tags and is plain text :)
 
- 
+Whatch this vedio 
+ [![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--xTBMPzyKcUI)
+
