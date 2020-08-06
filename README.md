@@ -1,9 +1,8 @@
 # JS-Obfuscation-Decrypt
-In JS there is a way to Obfuscation the html tags and text by using Obfuscate. Here I do some programs in java and C# to decrption the code.
+In JS there is a way to Obfuscation the html tags and text by using Obfuscate. Here I do some programs in **C#** to decrption the code.
 
 Maybe you see some code like this :
-
-##The Code of Obfuscation :
+##
 
 var erp = new Array;
 
@@ -48,5 +47,23 @@ document.write(em);
 ##
 And you asking how can decripted this code.
 
-here I write C# and Java codes to do decript the Obfuscation.
+to do decript the Obfuscation open  With [Program.cs](https://github.com/Ahmad-Faqehi/JS-Obfuscation-Decrypt/blob/master/Program.cs) file and copy the all Source code.
+After that you have to replace the arrays, delete  the all arrays start from comment **// Delete This Arrays and Write Yours.**
+after that pest the arrays you want to decrypted.
+Now execute the program, you can use online compiler for C#, I recommend **onlinegdb** website for compile the code, You can visit the site from [here](https://www.onlinegdb.com/online_csharp_compiler)
+## 
 
+
+*Some pictures:
+
+![enter image description here](https://raw.githubusercontent.com/Ahmad-Faqehi/JS-Obfuscation-Decrypt/master/Screenshot/Csharp-1.png)
+
+**Enter Size of array:** the size is the last location in array
+![enter image description here](https://raw.githubusercontent.com/Ahmad-Faqehi/JS-Obfuscation-Decrypt/master/Screenshot/Csharp-2.png)
+
+**Click Enter**
+![enter image description here](https://raw.githubusercontent.com/Ahmad-Faqehi/JS-Obfuscation-Decrypt/master/Screenshot/Csharp-3.png)
+
+This the result the tags and is plain text :)
+
+ 
